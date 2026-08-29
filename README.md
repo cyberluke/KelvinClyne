@@ -1,12 +1,12 @@
 # Kelvin Clyne
 
 <p align="center">
-  <img src="assets/k.webp" alt="Kelvin Clyne in VS Code: Context Reactor, PlanGraph workflows, sub-agent orchestration, and the mission composer" width="1200">
+  <img src="https://raw.githubusercontent.com/cyberluke/KelvinClyne/master/assets/k.webp" alt="Kelvin Clyne in VS Code: Context Reactor, PlanGraph workflows, sub-agent orchestration, and the mission composer" width="1200">
 </p>
 
 <p align="center">
-  <strong>Independent software chemist. Purifying dependency trees to 99.1%.</strong><br>
-  A local-first, ground-truth execution system for agentic software engineering inside Visual Studio Code.
+  <strong>Turn intent into verified execution.</strong><br>
+  PlanGraph missions, parallel sub-agents, context control, and ground-truth gates for serious engineering in VS Code.
 </p>
 
 > **Pre-release:** Kelvin Clyne is under active qualification. Interfaces, model drivers, and execution policies may evolve between pre-release builds.
