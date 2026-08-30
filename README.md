@@ -280,7 +280,7 @@ Some drivers, workflows, and RedTeam capabilities are experimental by design. Ex
 
 ## Operations room
 
-The community lives at [r/KelvinClyne](https://www.reddit.com/r/KelvinClyne/). It is the operations room for AI coding agents, local inference, RedTeam research, agent orchestration, and experimental developer infrastructure.
+The community lives on [Kelvin Clyne | Agent Lab 🟩](https://discord.gg/JDtPWeHdCs). It is the operations room for AI coding agents, local inference, RedTeam research, agent orchestration, and experimental developer infrastructure.
 
 Field reports are welcome:
 
